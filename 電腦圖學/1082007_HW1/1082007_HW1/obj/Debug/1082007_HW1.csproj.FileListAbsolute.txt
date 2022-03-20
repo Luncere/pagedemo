@@ -1,0 +1,15 @@
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\1082007_HW1.exe.config
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\1082007_HW1.exe
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\1082007_HW1.pdb
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\Tao.OpenGl.dll
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\Tao.OpenGl.xml
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.csprojAssemblyReference.cache
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\_1082007_HW1.Form1.resources
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\_1082007_HW1.Properties.Resources.resources
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.csproj.GenerateResource.cache
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.csproj.CoreCompileInputs.cache
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.csproj.CopyComplete
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.exe
+C:\Users\mogac\source\repos\1082007_HW1\1082007_HW1\obj\Debug\1082007_HW1.pdb

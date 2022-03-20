@@ -1,0 +1,15 @@
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.exe
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.deps.json
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.runtimeconfig.json
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.runtimeconfig.dev.json
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.dll
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\bin\Debug\netcoreapp3.1\1082007_HW4_2.pdb
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.csprojAssemblyReference.cache
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\_1082007_HW4_2.Form1.resources
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.csproj.GenerateResource.cache
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.AssemblyInfoInputs.cache
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.AssemblyInfo.cs
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.csproj.CoreCompileInputs.cache
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.dll
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.pdb
+C:\Users\mogac\source\repos\1082007_HW4_2\1082007_HW4_2\obj\Debug\netcoreapp3.1\1082007_HW4_2.genruntimeconfig.cache
