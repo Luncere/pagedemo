@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script type="text/javascript" src="jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="cling.js"></script>
+	<style>
+	#SMALL {
+	width: 80%;
+	display: inline-block;
+	}
+	#bar{
+		display:inline-block;
+		width: 20%;
+		position: relative;
+	}
+	#name{
+    position: absolute;
+    opacity: 0;
+    width:100%;
+    bottom: 1%;
+    background-color: lightskyblue;
+    text-align: center;
+    color: #333;
+    font-size: 2vw;
+    font-family:微軟正黑體;
+	}
+	#SS1,#SS2,#SS3,#SS4{
+		opacity:0.5;
+	}
+	#bar:hover #name{
+		background-color: rgba(255,255,255,0.5);
+		opacity: 1;
+	}
+	#bar:hover #SS1,#bar:hover #SS2,#bar:hover #SS3,#bar:hover #SS4{
+	opacity: 1;
+	}
+	</style>
+</head>
+<body style="text-align: center;background-color: #333">
+  <div id="SMALL">
+  	<div id="bar">
+  	    <img src="images/small1.jpg" width="100%" id="SS1" alt="" >
+  	    <div id="name">水信玄餅</div>
+  	</div>
+	<div id="bar">
+  	    <img src="images/small2.jpg" width="100%" id="SS2" alt="" >
+  	    <div id="name">雙球冰淇淋</div>
+  	</div>
+  	<div id="bar">
+  	    <img src="images/small3.jpg" width="100%" id="SS3" alt="" >
+  	    <div id="name">薑餅</div>
+  	</div>
+  	<div id="bar">
+  	    <img src="images/small4.jpg" width="100%" id="SS4" alt="" >
+  	    <div id="name">B-52雞尾酒</div>
+  	</div>
+  </div>
+	<img src="images/small1.jpg" width="60%" id="BIG">
+</body>
+</html>

@@ -1,0 +1,45 @@
+/*pc.css*/
+
+*{margin}
+
+#container{
+	display:block;
+	margin: 0 auto;
+	width: 70%;
+	background: #D9CD90;
+}
+header{
+	display:block;
+	
+}
+header img {
+	width: 100%;
+}
+article{
+	width :70%;
+	float:left;
+	background: #867835;
+}
+aside{
+	float:right;
+	width: 25%;
+	background: #C46243;
+}
+footer{
+	display:block;
+	clear:both;
+	text-align: center;
+}
+#items ul{
+
+	margin: 0;
+}
+#items li {
+	width: 20%;
+	float: left;
+	text-align: center;
+	list-style-type: none;
+}
+a{
+	text-decoration:none
+ }

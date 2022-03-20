@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form name="form1" method="get" action="">
+	<table border="2">
+		<tr>
+			<td>商品名稱</td>
+			<td><input type="text" size="30" placeholder="請輸入商品名稱"></td>
+		</tr>
+		<tr>
+			<td>樣品</td>
+			<td><input type="file" name="file"></td>
+		</tr>
+		<tr>
+			<td>性別</td>
+			<td><select name="性別">
+				<option value="請選擇">請選擇</option>
+				<option value="男性">男性</option>
+				<option value="女性">女性</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>數量</td>
+			<td><input type="number" min="0" max="100" step="2"></td>
+		</tr>
+		<tr>
+			<td>出場日期</td>
+			<td><input type="date" name="birthday"></td>
+		</tr>
+		<tr>
+			<td>商品顏色</td>
+			<td><input type="color" name="color"></td>
+		</tr>
+		<tr>
+			<td>現金</td>
+			<td><input type="checkbox" name="Usermoney" value="1">台幣
+				<input type="checkbox" name="Usermoney" value="2">日幣
+				<input type="checkbox" name="Usermoney" value="3">美金
+			</td>
+		</tr>
+		<tr>
+			<td>類組</td>
+			<td><input type="radio" name="Userlev" value="一類">一類
+				<input type="radio" name="Userlev" value="二類">二類
+				<input type="radio" name="Userlev" value="三類">三類
+			</td>
+		</tr>	
+		<tr>
+			<td>其他問題</td>
+			<td><textarea name="other" id="other" cols="30" rows="10"></textarea></td>
+		</tr>
+	</table>
+	</form>
+	<a href="index.html">回到首頁</a>
+</body>
+</html>

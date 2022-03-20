@@ -1,0 +1,25 @@
+/*phone.css*/
+#container {
+	width: 100%;
+}
+article,aside{
+	width:100%;
+	float: none;
+}
+#items li{
+	width: 100%;
+}
+header{
+	margin: 0;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#a ul{
+	padding: 0;
+}
+#a li{
+	width:100%;
+}
+#a li a{
+	width: 100%;
+}

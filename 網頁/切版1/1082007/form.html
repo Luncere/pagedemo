@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<form name="form1" method="post" action="confirm.php">
+	<table border="2">
+		<tr>
+			<td>商品名稱</td>
+			<td><input type="text" name="obj" size="30" placeholder="請輸入商品名稱"></td>
+		</tr>
+		<tr>
+			<td>卡號</td>
+			<td><input type="password" name="password" placeholder="XXOO112233"> </td>
+		</tr>
+		<tr>
+			<td>聯絡信箱</td>
+			<td><input type="email" name="email" placeholder="XXOO112233@gmail.com"></td>
+		</tr>
+		<tr>
+			<td>寄件日期</td>
+			<td><input type="date" name="data"></td>
+		</tr>	
+		<tr>
+			<td>物件類型</td>
+			<td><input type="radio" name="radio" value="1">大型
+				<input type="radio" name="radio" value="2">中型
+				<input type="radio" name="radio" value="3">輕型
+			</td>
+		</tr>	
+		<tr>
+			<td>繳費方式</td>
+			<td><input type="text" list="trans"name="datalist">
+				<datalist id="trans">
+					<option value="現金"></option>	
+					<option value="轉帳"></option>
+					<option value="支票"></option>
+				</datalist>
+			</td>
+		</tr>	
+		<tr>
+			<td>幣別</td>
+			<td><input type="checkbox" name="Usermoney[]" value="1">台幣
+				<input type="checkbox" name="Usermoney[]" value="2">日幣
+				<input type="checkbox" name="Usermoney[]" value="3">美金
+			</td>
+		</tr>
+		<tr>
+			<td>性別</td>
+			<td><select name="性別">
+				<option value="請選擇">請選擇</option>
+				<option value="男性">男性</option>
+				<option value="女性">女性</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>R</td>
+			<td><input type="range" min="0"max="255" step="1" name="range01" id="range01"><span id="show-range01">here</span></td>
+		</tr>
+		<tr>
+			<td>G</td>
+			<td><input type="range" min="0"max="255" step="1" name="range02" id="range02"><input type="text" id="show-range02" value="here"></td>
+		</tr>
+		<tr>
+			<td>B</td>
+			<td><input type="range" min="0"max="255" step="1" name="range03" id="range03"><input type="button" name="bot" id="bot" value="click"><input type="text" name="show-range03" id="show-range03" value="show"></td>
+		</tr>
+		<td colspan="2" style="text-align: right;">
+		<input type="submit" name="submit">
+		<input type="reset" name="reset">
+		</td>
+		</table>
+	</form>
+	<script>
+		document.getElementById("range01").onchange=function(){
+		document.getElementById("show-range01").innerHTML=document.getElementById("range01").value;
+		}
+
+		var a=document.getElementById("range02");
+		var b=document.getElementById("show-range02");
+		a.addEventListener("change",function(){
+			b.value=a.value;
+		})
+
+		var x=document.getElementById("bot");
+		var y=document.getElementById("range03");
+		var z=document.getElementById("show-range03");
+		x.addEventListener("click",function(){
+			z.value=y.value;
+		})
+	</script>
+	<a href="index.html">回到首頁</a>
+</body>
+</html>
